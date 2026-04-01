@@ -15,6 +15,8 @@ The analysis reveals that **Petal Length** and **Petal Width** are the most sign
 - **Setosa** is easily identifiable with significantly smaller petal dimensions.
 - **Versicolor** and **Virginica** show slight overlaps but remain distinguishable through petal width correlations.
 
+![Iris Data Analysis Chart](iris-heatmap.png)
+
 ## 🛠 Tech Stack
 - **Language:** Python
 - **Libraries:** - `Pandas` (Data manipulation)
